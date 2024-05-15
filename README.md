@@ -1,11 +1,11 @@
 # Inter-Temporal Comparison of Risk Measures: The Effect of Monetary Policy Changes on Value-at-Risk (VaR)
 
 ## Overview
-This repository contains the analysis and results of a study investigating the impact of monetary policy changes on Value-at-Risk (VaR). The study focuses on how shifts in interest rates, driven by central bank policies, affect the VaR metrics used in risk management and investment strategies. The research employs advanced Monte Carlo simulations to model the potential impacts and provides insights for financial managers and risk intermediaries.
+This repository contains the analysis and results of a study investigating the impact of monetary policy changes on VaR. The study focuses on how shifts in interest rates, driven by central bank policies, affect the VaR metrics used in risk management and investment strategies. The research employs advanced Monte Carlo simulations to model the potential impacts and provides insights for financial managers and risk intermediaries.
 
 ## Hypotheses
-- **H0**: Monetary policy changes do not significantly affect the Value-at-Risk (VaR) of financial portfolios.
-- **H1**: Monetary policy changes significantly affect the Value-at-Risk (VaR) of financial portfolios.
+- **H0**: Monetary policy changes do not significantly affect the VaR of financial portfolios.
+- **H1**: Monetary policy changes significantly affect the VaR of financial portfolios.
 
 ## Methodology
 
